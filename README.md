@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Hehe-trying
-- 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently studying Machine Learning
-- 💞️ I’m looking to collaborate on beginner ML projects.
+- 👋 Hi, I’m @Hehe-trying (Tushar)
+- 🌱 I’m currently studying Web Development.
+- 💞️ I’m looking forward to collaborate on projects.
 - 📫 How to reach me Email: tushar6420@gmail.com Mob: 9660818616
 
 <!---
