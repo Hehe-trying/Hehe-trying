@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hehe-trying (Tushar)
-- 🌱 I’m currently studying Algorightms.
+- 🌱 I’m currently studying Algorithms.
 - 💞️ I’m looking forward to collaborate on projects.
 - 📫 How to reach me Email: tushar6420@gmail.com Mob: 9660818616
 
