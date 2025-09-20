@@ -11,10 +11,9 @@
 
 <h3 align="left">Profiles on Coding Sites:</h3>
 <p align="left">
-<a href="https://kaggle.com/hehetrying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hehetrying" height="30" width="40" /></a>
-<p></p>
-<a href="https://codeforces.com/profile/hehe_trying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hehe_trying" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hehe_trying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hehe_trying" height="30" width="40" /></a>
+<a href="https://kaggle.com/hehetrying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hehetrying" height="30" width="40" />    </a>
+<a href="https://codeforces.com/profile/hehe_trying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hehe_trying" height="30" width="40" />    </a>
+<a href="https://www.leetcode.com/hehe_trying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hehe_trying" height="30" width="40" />    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
